@@ -1,0 +1,37 @@
+.navbar{
+    text-decoration: none;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 30px;
+    height: 5vh;
+    padding-left: 5%;
+    background-color: #f74f4fc7;
+}
+
+.home{
+    text-align: center;
+}
+
+.contacto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.contacto h1{
+    font-size: 50px;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#desc{
+    height: 100px;
+    width: 300px;
+}
